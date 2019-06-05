@@ -4,7 +4,7 @@
 
 # Site
 title: Yuki's blog
-subtitle:
+subtitle: 你看，她的眼里有光
 description: 前端
 keywords:
 author: puxinyu
@@ -79,7 +79,9 @@ theme: ocean
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/puxinyu/puxinyu.github.io
+  branch: master
 
 # hexo-generator-searchdb@1.0.8
 search:
