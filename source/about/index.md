@@ -2,7 +2,7 @@
 title: 关于我
 date: 2019-06-05 14:28:34
 ---
-<img src="/images/yuki.png" width="150px" height="150px" style="margin-left: 0">
+<img src="/images/yuki.jpeg" width="150px" height="150px" style="margin-left: 0; border-radius: 50%" />
 
 ## 个人信息
 

@@ -27,6 +27,9 @@ nav_text:
   post_prev: 前一篇
   post_next: 后一篇
 
+auto_excerpt:
+  enable: true
+
 # fancybox
 fancybox: true
 
